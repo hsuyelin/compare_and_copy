@@ -7,16 +7,16 @@ This python script will compare two folders. and copy differences which in new f
 * the third folders can be created without prior.
 
 
-# usage: compare_and_copy.py [-h] oldDir newDir dstDir
+usage: compare_and_copy.py [-h] oldDir newDir dstDir
 
-# positional arguments:
+positional arguments:
 
 * oldDir
 * newDir
 * dstDir
 
-# optional arguments:
+optional arguments:
   -h, --help  show this help message and exit
 
-# example usage:
+example usage:
 python compare_and_copy.py test1 test2 test3
